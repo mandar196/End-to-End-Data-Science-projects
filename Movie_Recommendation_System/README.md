@@ -7,6 +7,8 @@ Link to the web application :- https://movierecommendationappheroku.herokuapp.co
 
 I have used Flask framework to built web app.
 
+<hr>
+
 # Files:
 *In the preprocessing.ipynb file the Data Preprocessing part has been done.
 
@@ -20,7 +22,7 @@ I have used Flask framework to built web app.
 ![kad](https://user-images.githubusercontent.com/61036755/82662141-f7600700-9c4a-11ea-903d-d39b2d57c091.png)
 ![nbd](https://user-images.githubusercontent.com/61036755/82662166-00e96f00-9c4b-11ea-9f5e-1a5ac3486463.png)
 
-
+<hr>
 
 If you like this repo, please don't forget to give a ⭐.
 
